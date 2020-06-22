@@ -1,0 +1,9 @@
+D:\Paint_Proekt_w58941\Paint_Proekt_w58941\bin\Debug\Paint_Proekt_w58941.exe.config
+D:\Paint_Proekt_w58941\Paint_Proekt_w58941\bin\Debug\Paint_Proekt_w58941.exe
+D:\Paint_Proekt_w58941\Paint_Proekt_w58941\bin\Debug\Paint_Proekt_w58941.pdb
+D:\Paint_Proekt_w58941\Paint_Proekt_w58941\obj\Debug\Paint_Proekt_w58941.csprojAssemblyReference.cache
+D:\Paint_Proekt_w58941\Paint_Proekt_w58941\obj\Debug\Paint_Proekt_w58941.Form1.resources
+D:\Paint_Proekt_w58941\Paint_Proekt_w58941\obj\Debug\Paint_Proekt_w58941.Properties.Resources.resources
+D:\Paint_Proekt_w58941\Paint_Proekt_w58941\obj\Debug\Paint_Proekt_w58941.csproj.GenerateResource.cache
+D:\Paint_Proekt_w58941\Paint_Proekt_w58941\obj\Debug\Paint_Proekt_w58941.exe
+D:\Paint_Proekt_w58941\Paint_Proekt_w58941\obj\Debug\Paint_Proekt_w58941.pdb
